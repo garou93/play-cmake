@@ -12,7 +12,7 @@ Goooooooooooooooooooooooooaaaaaaaaaaals
   paths and header files
 * compile a Doxygen documentation and install it
 * define and run unit tests
-* generate a tar.gz archive for our project
+* generate a tar.gz archive for our project (work in progress)
 
 (work in progress 90%)
 
