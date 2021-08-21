@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../src/fonct_exp.hpp
+
+/home/haithem/Bureau/code/play_cmake_i/play_cmake_2/examples/try1.cpp
+iostream
+-
+cassert
+-
+fonct_exp.hpp
+/home/haithem/Bureau/code/play_cmake_i/play_cmake_2/examples/fonct_exp.hpp
+

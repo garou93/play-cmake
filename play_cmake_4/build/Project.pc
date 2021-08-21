@@ -1,0 +1,8 @@
+
+	  Name: Project
+	  Description: C'est une super librairie qui utilise gtk2
+	  Version: 0.0.1
+	  Requires: gtk2
+	  Libs: -L/usr/local/lib
+	  Cflags: -I/include
+	  

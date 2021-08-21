@@ -1,0 +1,6 @@
+/home/haithem/Bureau/code/play_cmake_i/play_cmake_4/build/CMakeFiles/install/local.dir
+/home/haithem/Bureau/code/play_cmake_i/play_cmake_4/build/CMakeFiles/install.dir
+/home/haithem/Bureau/code/play_cmake_i/play_cmake_4/build/CMakeFiles/list_install_components.dir
+/home/haithem/Bureau/code/play_cmake_i/play_cmake_4/build/CMakeFiles/rebuild_cache.dir
+/home/haithem/Bureau/code/play_cmake_i/play_cmake_4/build/CMakeFiles/install/strip.dir
+/home/haithem/Bureau/code/play_cmake_i/play_cmake_4/build/CMakeFiles/edit_cache.dir

@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/haithem/Bureau/code/play_cmake_i/play_cmake_2/src/fonct_exp.cpp
+fonct_exp.hpp
+/home/haithem/Bureau/code/play_cmake_i/play_cmake_2/src/fonct_exp.hpp
+
+/home/haithem/Bureau/code/play_cmake_i/play_cmake_2/src/fonct_exp.hpp
+
+/home/haithem/Bureau/code/play_cmake_i/play_cmake_2/src/seqret.cpp
+seqret.hpp
+/home/haithem/Bureau/code/play_cmake_i/play_cmake_2/src/seqret.hpp
+math.h
+-
+
+/home/haithem/Bureau/code/play_cmake_i/play_cmake_2/src/seqret.hpp
+

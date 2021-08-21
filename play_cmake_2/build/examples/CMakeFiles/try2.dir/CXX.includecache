@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../src/seqret.hpp
+
+/home/haithem/Bureau/code/play_cmake_i/play_cmake_2/examples/try2.cpp
+iostream
+-
+cassert
+-
+seqret.hpp
+/home/haithem/Bureau/code/play_cmake_i/play_cmake_2/examples/seqret.hpp
+

@@ -1,0 +1,1 @@
+/usr/bin/c++  -O3 -DNDEBUG  -rdynamic CMakeFiles/try1.dir/try1.cpp.o  -o try1 -Wl,-rpath,/home/haithem/Bureau/code/play_cmake_i/play_cmake_2/build/src ../src/libtotoplus1.so 
