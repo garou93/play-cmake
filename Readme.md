@@ -24,3 +24,7 @@ Priority between targets?
 Build installable deb, rpm, osx, windows packages?
 
 
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+# If you like this depo, buy me a Coffee ! =)
+- [Neteller](https://www.neteller.com/fr/features/money-transfer) 
+ (haithem.ben.abdelaziz@gmail.com)
